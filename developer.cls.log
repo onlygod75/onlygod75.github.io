@@ -1,0 +1,69 @@
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2019.5.13)  2 JUL 2019 12:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./developer.cls.tex
+(./developer.cls.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 55 language(s) loaded.
+
+LaTeX Warning: You have requested package `',
+               but the package provides `developercv'.
+
+Package: developercv 2019/01/28 Developer CV class v1.0
+(c:/texlive/2015/texmf-dist/tex/latex/extsizes/extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(c:/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+(c:/texlive/2015/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen102
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \usepackage[hidelinks]{
+                            hyperref} % Required for links but hide the defa...
+
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.36 \usepackage[hidelinks]{
+                            hyperref} % Required for links but hide the defa...
+
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+ 
+Here is how much of TeX's memory you used:
+ 233 strings out of 493901
+ 4360 string characters out of 6157912
+ 51455 words of memory out of 5000000
+ 3670 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1280 hyphenation exceptions out of 8191
+ 25i,0n,20p,194b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
